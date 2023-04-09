@@ -1,48 +1,4 @@
-/* #navbar{
-    background-color: #ffffff;
-    border: #ffffff 2px;
-    border-radius: 30px;
-    box-shadow: 0px 0px 15px #c0bfbf;
-}
-#navbar ul{
-    overflow: auto;
-    padding-left: 48px ;
-    padding-right: 10px ;
-}
-#navbar li{
-    float: left;
-    list-style: none;
-    margin: 15px 12px;
-}
-#navbar li a{
-    padding: 3px 3px;
-    text-decoration: none;
-    color: #000000;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 500;
-}
-.searchbox{
-    float: right;
-    margin-top: 18;
-    margin-right: 20px;
-}
-#search{
-border: white 2px;
-border-radius: 10px;
-height: 20px;
-}
-#navbar input{
-    padding-left: 6px;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 500;
-    background-color:  #f6f6f6;
-} */
-
 #navbar{
-    margin-left: 10px;
-    margin-right: 10px;
-    align-content: center;
-    margin-top: 16px;
     background-color: #ffffff;
     border: #ffffff 2px;
     border-radius: 30px;
@@ -71,7 +27,6 @@ height: 20px;
     margin-right: 20px;
 }
 #search{
-margin-top: 15px;
 border: white 2px;
 border-radius: 10px;
 height: 20px;
@@ -81,14 +36,6 @@ height: 20px;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
     background-color:  #f6f6f6;
-}
-#logoimg{
-    float: left;
-    margin-top: 6px;
-    margin-right: 70px;
-}
-#logo{
-    width: 65px;
 }
 
 #body{
@@ -97,7 +44,7 @@ height: 20px;
 }
 #mainBody{
     background-color: #ffffff;
-    height: auto;
+    height: 1114px;
     border-radius: 4%;
     box-shadow: 0px 1px 15px #c0bfbf;
 }
@@ -120,16 +67,13 @@ height: 20px;
     font-weight: 300;
     font-size: 21;
     /* align-content: left; */
-    padding: 30px;
-    /* margin: -14px 19px; */
-   
-    margin: auto;
+    width: 1400px;
 }
 #headingId{
     font-family: 'Poppins', sans-serif;
     font-weight: 800;
     font-size: 100px;
-    margin-right: 400px;
+    margin-right: 480px;
     margin-left: 34px;
 }
 #logoimg{
