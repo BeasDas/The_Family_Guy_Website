@@ -68,7 +68,9 @@ height: 20px;
     font-size: 21;
     /* align-content: left; */
     padding: 20px;
-    margin: -14px 19px;
+    /* margin: -14px 19px; */
+   
+    margin: auto;
 }
 #headingId{
     font-family: 'Poppins', sans-serif;
